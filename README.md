@@ -1,7 +1,7 @@
- Skin Disease Detection Using CNN
+ Skin Disease Detection Using CNN:
 This project uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras to classify skin disease images into different categories.
 
-🚀 Overview
+ Overview
 Preprocesses image data using ImageDataGenerator
 
 Trains a CNN model with convolutional, pooling, dropout, and batch normalization layers
